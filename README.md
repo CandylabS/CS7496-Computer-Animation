@@ -8,7 +8,6 @@
 #### collision
 
 ## Fluid Simulation
-based on the framework proposed by Jos Stam in “Real‐Time Fluid Dynamics for Games”
-<a href="http://example.com/">Games/</a>
+based on the framework proposed by Jos Stam in <a href="http://www.intpowertechcorp.com/GDC03.pdf">“Real‐Time Fluid Dynamics for Games”</a>
 
 ## Twister
