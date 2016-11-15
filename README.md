@@ -1,7 +1,7 @@
 # CS7496-Computer-Animation
 ## Particle System
 #### Galileo Experiment
-
+![Alt text](/img/1a.jpg)
 #### Tinker Toy
 
 ## Rigid Body
